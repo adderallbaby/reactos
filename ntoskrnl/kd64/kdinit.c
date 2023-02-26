@@ -71,6 +71,8 @@ static CODE_SEG("INIT")
 VOID
 KdpPrintBanner(IN SIZE_T MemSizeMBs)
 {
+     DPRINT1("Kuivashev Dmitry\n");
+
     DPRINT1("-----------------------------------------------------\n");
     DPRINT1("ReactOS " KERNEL_VERSION_STR " (Build " KERNEL_VERSION_BUILD_STR ") (Commit " KERNEL_VERSION_COMMIT_HASH ")\n");
     DPRINT1("%u System Processor [%u MB Memory]\n", KeNumberProcessors, MemSizeMBs);
