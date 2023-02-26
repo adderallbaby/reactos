@@ -20,7 +20,7 @@ ninja bootcd
 <mark>Порты</mark>
 <mark>Порт 1</mark>  
 Режим порта: <mark>Перенаправить в файл</mark>
-Путь/адрес: <mark>*путь до желаемого адреса*</mark>
+Путь/адрес: <mark>*путь/до/желаемого/адреса*</mark>
 
 <p align=center>
   <a href="https://reactos.org/">
