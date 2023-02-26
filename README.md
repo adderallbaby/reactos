@@ -19,7 +19,7 @@ ninja bootcd
 Настроить   
 Порты <kbd> <br> Порт 1 <br> </kbd>  
 Режим порта: <kbd> <br> Перенаправить в файл <br> </kbd>  
-Путь/адрес: <kbd> <br> путь/до/желаемого/адреса/debug.log <br> </kbd>  
+Путь/адрес: <kbd> <br> путь/до/желаемого/места/debug.log <br> </kbd>  
 
 <p align=center>
   <a href="https://reactos.org/">
