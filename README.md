@@ -1,6 +1,12 @@
 
  Это реактос (модифицированный для курса ОС ИУ9)
-
+После установки RosBE в терминале пишем
+bash "/usr/local/RosBE/RosBE.sh" "/Users/path/to/cloned/reactos"
+потом 
+sh configure.sh (или cmd если виндовс)
+и
+ninja bootcd
+после по дефолту (в VirtualBox создаем штуку с этим диском)
 
 
 
