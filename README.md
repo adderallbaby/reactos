@@ -2,7 +2,7 @@
  Это реактос (модифицированный для курса ОС ИУ9)\n
 После установки RosBE в терминале пишем\n
 ```
-bash "/usr/local/RosBE/RosBE.sh" "/Users/path/to/cloned/reactos"\n
+bash "/usr/local/RosBE/RosBE.sh" "/Users/path/to/cloned/reactos"
 ```
 потом \n
 ```
